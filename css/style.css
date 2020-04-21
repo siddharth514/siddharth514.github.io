@@ -4,3 +4,17 @@ h1{color: rgb(0, 255, 0);
 p{color: blue;
     text-align:left;
 }
+.nav{background-color:coral;
+    font-size:20px;
+    border:5px red solid;
+    border-radius:100px;}
+    ol{list-style:none;}
+    ol li{display:inline;
+    padding-right:50px;}
+    ol li a{text-decoration:none;
+    color:voilet;}
+    ol li:hover a{color:yellow;}
+    ol li:active a{color:green;}
+    ol li:visited a{color:pink;}
+    
+    
