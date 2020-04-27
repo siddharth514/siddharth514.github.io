@@ -17,14 +17,18 @@ p{color: blue;
     padding-right:50px;}
 
     ol li a{text-decoration:none;
-    color:orange;}
+    color:rgba(22, 89, 153, 0.753);}
 
     ol li:hover a{color:purple;}
 
    
 
-    ol li:active a{color:green;}
+    ol li:active a{color: yellow}
 
-    ol li:visited a{color:pink;}
+    ol li:visited a{color:rgb(253, 115, 138);}
+
+.wrapper{
+    background-color: greenyellow;
+}  
     
     
