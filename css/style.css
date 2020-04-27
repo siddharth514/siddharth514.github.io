@@ -26,9 +26,5 @@ p{color: blue;
     ol li:active a{color: yellow}
 
     ol li:visited a{color:rgb(253, 115, 138);}
-
-.wrapper{
-    background-color: greenyellow;
-}  
-    
+ 
     
